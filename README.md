@@ -20,7 +20,7 @@
 <br/>
 
 <center>
-	<table>
+	<table border="none">
         <tr>
             <td>
 				<img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=bangef&hide=html&layout=compact&theme=buefy" /
