@@ -20,17 +20,6 @@
 <br/>
 <br/>
 
-<center>
-	<table border="none">
-        <tr>
-            <td>
-				<img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=bangef&hide=html&layout=compact&theme=buefy" /
-            </td>
-            <td>
-				<img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=bangef&hide=html&layout=compact&theme=buefy"/>
-            </td>
-        </tr>
-	</table>    
-</center>
-
+<img width="400" height='200' align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=bangef&hide=html&layout=compact&theme=dark" />
+<img width="400" height='200' src="https://github-readme-stats.ereshzealous.vercel.app/api?username=bangef&hide=html&layout=compact&theme=dark"/>
 
