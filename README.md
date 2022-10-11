@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-
+<div>
 <img width="400" height='200' align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=bangef&hide=html&layout=compact&theme=dark" />
 <img width="400" height='200' src="https://github-readme-stats.ereshzealous.vercel.app/api?username=bangef&hide=html&layout=compact&theme=dark"/>
-
+</div>
