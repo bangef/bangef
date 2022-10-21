@@ -19,5 +19,5 @@
   <summary>Holopin Badge</summary>
 
   <hr />
-  [![@bangef's Holopin board](https://holopin.me/bangef)](https://holopin.io/@bangef)
+  [![@bangef's Holopin board](https://holopin.me/api/user/board?user=bangef)](https://holopin.io/@bangef)
 </details>
