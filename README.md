@@ -19,5 +19,7 @@
   <summary>Holopin Badge</summary>
 
   <hr />
-  [![@bangef's Holopin board](https://holopin.me/bangef)](https://holopin.io/@bangef)
+  <p aling='center'>
+  <img src="[https://github-readme-stats.ereshzealous.vercel.app/api?username=bangef&hide=html&layout=compact&theme=dark](https://holopin.me/bangef)"/>
+  </p>
 </details>
