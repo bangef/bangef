@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ficri Hanip 👋</h1>
 
-- 👨‍💻 I'm interest all anything tech, especially *frontend website*
+- 👨‍💻 I'm interest all anything tech, especially **frontend website**
 - ✍️ In this repo, you will only see what i learned
 - 💅 enjoyer code, open to colaborate
 
@@ -19,5 +19,5 @@
   <summary>Holopin Badge</summary>
 
   <hr />
-  [![@bangef's Holopin board](https://holopin.me/api/user/board?user=bangef)](https://holopin.io/@bangef)
+  [![@bangef's Holopin board](https://holopin.me/bangef)](https://holopin.io/@bangef)
 </details>
