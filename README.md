@@ -19,7 +19,6 @@
   <summary>Holopin Badge</summary>
 
   <hr />
-  <p aling='center'>
+
   <img src="[https://github-readme-stats.ereshzealous.vercel.app/api?username=bangef&hide=html&layout=compact&theme=dark](https://holopin.me/bangef)"/>
-  </p>
 </details>
